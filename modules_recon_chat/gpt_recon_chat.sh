@@ -18,7 +18,7 @@ while true; do
     echo "Exiting GPT Recon Chat."
     break
   else
-    echo "🔎 Thinking..."
+    echo " Thinking..."
     echo "→ (Pretend response from GPT about: '$question')"
     echo ""
   fi
