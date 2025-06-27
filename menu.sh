@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "========================================="
-echo "     🛡️ Un1nv1t3dr34p3r Framework Menu"
+echo "      Un1nv1t3dr34p3r Framework Menu"
 echo "========================================="
 [1] Run Dns Discovery
 [2] Run Subdomain Takeover
