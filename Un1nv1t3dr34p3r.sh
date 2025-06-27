@@ -3,7 +3,7 @@
 
 
 echo ""
-echo "🧪 PoC Automation Tools"
+echo " PoC Automation Tools"
 echo "    [50] Run PoC Generator"
 read -p "Select an option: " option
 
@@ -15,7 +15,7 @@ esac
 
 
 echo ""
-echo "🤖 AI Recon Assistant"
+echo " AI Recon Assistant"
 echo "    [52] Launch GPT Recon Chat"
 read -p "Select an option: " option
 
@@ -51,7 +51,7 @@ esac
 
 
 echo ""
-echo "☁️ Cloud Risk Assessment"
+echo " Cloud Risk Assessment"
 echo "    [55] Run CSPM Risk Dashboard"
 read -p "Select an option: " option
 
@@ -63,7 +63,7 @@ esac
 
 
 echo ""
-echo "🧠 Exploit Mapping Engine"
+echo " Exploit Mapping Engine"
 echo "    [56] Run Exploit Mapper & Suggestions"
 read -p "Select an option: " option
 
@@ -75,7 +75,7 @@ esac
 
 
 echo ""
-echo "📊 Risk Prioritization Engine"
+echo " Risk Prioritization Engine"
 echo "    [57] Run AI Risk Prioritizer"
 read -p "Select an option: " option
 
@@ -87,7 +87,7 @@ esac
 
 
 echo ""
-echo "🤖 Exploit Automation"
+echo " Exploit Automation"
 echo "    [58] Run Auto PoC Generator"
 read -p "Select an option: " option
 
@@ -99,7 +99,7 @@ esac
 
 
 echo ""
-echo "🔓 Authorization Testing"
+echo " Authorization Testing"
 echo "    [59] Run BOLA Checker"
 read -p "Select an option: " option
 
@@ -111,7 +111,7 @@ esac
 
 
 echo ""
-echo "🔁 Session Analysis"
+echo " Session Analysis"
 echo "    [60] Run Session Replay Tester"
 read -p "Select an option: " option
 
@@ -123,7 +123,7 @@ esac
 
 
 echo ""
-echo "📂 File Path Attacks"
+echo " File Path Attacks"
 echo "    [61] Run Directory Traversal Detector"
 read -p "Select an option: " option
 
@@ -135,7 +135,7 @@ esac
 
 
 echo ""
-echo "🧨 Exploit Lookup"
+echo " Exploit Lookup"
 echo "    [62] Run Searchsploit Integration"
 read -p "Select an option: " option
 
@@ -147,7 +147,7 @@ esac
 
 
 echo ""
-echo "🌐 SSRF Testing"
+echo " SSRF Testing"
 echo "    [63] Run SSRF Payload Tester"
 read -p "Select an option: " option
 
@@ -159,7 +159,7 @@ esac
 
 
 echo ""
-echo "🧾 Template Injection"
+echo " Template Injection"
 echo "    [64] Run SSTI Injection Fuzzer"
 read -p "Select an option: " option
 
@@ -171,7 +171,7 @@ esac
 
 
 echo ""
-echo "🔐 Token Attacks"
+echo " Token Attacks"
 echo "    [65] Run JWT Analyzer & Brute"
 read -p "Select an option: " option
 
@@ -183,7 +183,7 @@ esac
 
 
 echo ""
-echo "🧬 Reverse Shells"
+echo " Reverse Shells"
 echo "    [66] Generate Reverse Shell Payloads"
 read -p "Select an option: " option
 
@@ -195,7 +195,7 @@ esac
 
 
 echo ""
-echo "🧪 Upload Vulnerabilities"
+echo " Upload Vulnerabilities"
 echo "    [67] Run File Upload Exploit Tester"
 read -p "Select an option: " option
 
@@ -207,7 +207,7 @@ esac
 
 
 echo ""
-echo "🔍 CMS Fingerprinting"
+echo " CMS Fingerprinting"
 echo "    [68] Run CMS Detector & Fingerprinter"
 read -p "Select an option: " option
 
@@ -219,7 +219,7 @@ esac
 
 
 echo ""
-echo "🎯 CORS Testing"
+echo " CORS Testing"
 echo "    [69] Run CORS Misconfiguration Tester"
 read -p "Select an option: " option
 
@@ -231,7 +231,7 @@ esac
 
 
 echo ""
-echo "🧭 Redirect Testing"
+echo " Redirect Testing"
 echo "    [70] Run Open Redirect Mapper"
 read -p "Select an option: " option
 
@@ -243,7 +243,7 @@ esac
 
 
 echo ""
-echo "🗂️ Static Asset Scanner"
+echo " Static Asset Scanner"
 echo "    [71] Run Static Asset Exposure Scanner"
 read -p "Select an option: " option
 
@@ -255,7 +255,7 @@ esac
 
 
 echo ""
-echo "📑 JS Secrets Extraction"
+echo " JS Secrets Extraction"
 echo "    [72] Run JavaScript Secrets Extractor"
 read -p "Select an option: " option
 
@@ -267,7 +267,7 @@ esac
 
 
 echo ""
-echo "🧠 AI Prioritization"
+echo " AI Prioritization"
 echo "    [73] Run Attack Surface Prioritizer"
 read -p "Select an option: " option
 
@@ -279,7 +279,7 @@ esac
 
 
 echo ""
-echo "🕷️ URL Pattern Analysis"
+echo " URL Pattern Analysis"
 echo "    [74] Run URL Pattern Crawler"
 read -p "Select an option: " option
 
@@ -291,7 +291,7 @@ esac
 
 
 echo ""
-echo "🧬 Dependency Analysis"
+echo " Dependency Analysis"
 echo "    [75] Run Dependency Vulnerability Matcher"
 read -p "Select an option: " option
 
@@ -303,7 +303,7 @@ esac
 
 
 echo ""
-echo "🔐 Token Exposure Detection"
+echo " Token Exposure Detection"
 echo "    [76] Run Session Token Exposure Scanner"
 read -p "Select an option: " option
 
@@ -315,7 +315,7 @@ esac
 
 
 echo ""
-echo "🌐 CDN Leak Testing"
+echo " CDN Leak Testing"
 echo "    [77] Run CDN Leak Tester"
 read -p "Select an option: " option
 
@@ -327,7 +327,7 @@ esac
 
 
 echo ""
-echo "🧪 Login Detection"
+echo " Login Detection"
 echo "    [78] Run Login Interface Fingerprinter"
 read -p "Select an option: " option
 
@@ -339,7 +339,7 @@ esac
 
 
 echo ""
-echo "📦 Node.js Dependency Deep Dive"
+echo " Node.js Dependency Deep Dive"
 echo "    [79] Run package-lock.json Inspector"
 read -p "Select an option: " option
 
@@ -351,7 +351,7 @@ esac
 
 
 echo ""
-echo "🔎 Endpoint Intelligence"
+echo " Endpoint Intelligence"
 echo "    [80] Run Duplicate Endpoint Finder"
 echo "    [81] Run Sensitive Param Auto-Fuzzer"
 read -p "Select an option: " option
@@ -367,7 +367,7 @@ esac
 
 
 echo ""
-echo "☁️ Cloud & Secrets Detection"
+echo " Cloud & Secrets Detection"
 echo "    [82] Run S3 Bucket Crawler & Access Tester"
 echo "    [83] Run JS Analyzer for Hardcoded Keys"
 read -p "Select an option: " option
@@ -383,7 +383,7 @@ esac
 
 
 echo ""
-echo "🧪 Recon Surface Expansion"
+echo " Recon Surface Expansion"
 echo "    [84] Run Archive & Backup File Hunter"
 echo "    [85] Run HTML Form Extractor & Mapper"
 read -p "Select an option: " option
@@ -399,7 +399,7 @@ esac
 
 
 echo ""
-echo "🧠 AI Assistant Modules"
+echo " AI Assistant Modules"
 echo "    [86] Run AI Prompt Generator for Recon Tools"
 echo "    [87] Run GPT-Based Risk Classifier & Exploit Scorer"
 read -p "Select an option: " option
