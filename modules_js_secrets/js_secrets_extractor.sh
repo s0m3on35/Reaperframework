@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "📑 JavaScript Secrets Extractor"
+echo " JavaScript Secrets Extractor"
 
 mkdir -p js_secrets_results
 
