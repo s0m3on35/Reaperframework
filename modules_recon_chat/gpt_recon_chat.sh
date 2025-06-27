@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🧠 GPT Recon Chat - Interactive CLI Assistant"
+echo " GPT Recon Chat - Interactive CLI Assistant"
 echo "Loading previous recon results (if available)..."
 echo ""
 
@@ -13,7 +13,7 @@ fi
 echo ""
 echo "Type your recon question or 'exit':"
 while true; do
-  read -p "🤖 GPT> " question
+  read -p " GPT> " question
   if [[ "$question" == "exit" ]]; then
     echo "Exiting GPT Recon Chat."
     break
