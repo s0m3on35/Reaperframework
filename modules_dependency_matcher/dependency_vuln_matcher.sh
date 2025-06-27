@@ -25,4 +25,4 @@ cat dependency_results/node_packages.txt | while read depfile; do
 done
 
 echo "[*] Summary of detected libraries written to: dependency_results/summary.txt"
-echo "📌 You can now use this list with OSV-Scanner, Snyk, or custom CVE mapping."
+echo " You can now use this list with OSV-Scanner, Snyk, or custom CVE mapping."
