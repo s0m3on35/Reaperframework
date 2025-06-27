@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🧬 JS Analyzer for Hardcoded Keys"
+echo " JS Analyzer for Hardcoded Keys"
 mkdir -p js_secrets
 
 input_dir="js_links"
