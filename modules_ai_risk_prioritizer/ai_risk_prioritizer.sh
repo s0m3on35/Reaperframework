@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "📊 AI Risk Prioritizer - Criticality Analysis Engine"
+echo "AI Risk Prioritizer - Criticality Analysis Engine"
 
 mkdir -p risk_scores
 
