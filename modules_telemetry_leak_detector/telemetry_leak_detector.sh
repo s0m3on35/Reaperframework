@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "📡 Telemetry Leak Detection Module"
+echo " Telemetry Leak Detection Module"
 echo "Looking for telemetry endpoints, analytic beacons, and external data leaks..."
 
 mkdir -p telemetry_logs
