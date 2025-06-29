@@ -39,7 +39,7 @@ esac
 
 
 echo ""
-echo "📡 Analytics & Telemetry Scanning"
+echo "Analytics & Telemetry Scanning"
 echo "    [54] Run Telemetry Leak Detector"
 read -p "Select an option: " option
 
